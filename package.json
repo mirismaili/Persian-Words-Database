@@ -1,0 +1,20 @@
+{
+  "name": "persian-words-database",
+  "version": "0.0.0",
+  "description": "About 400,000 Persian (Farsi) Words",
+  "keywords": [],
+  "homepage": "https://github.com/mirismaili/Persian-Words-Database#readme",
+  "bugs": {
+    "url": "https://github.com/mirismaili/Persian-Words-Database/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirismaili/Persian-Words-Database.git"
+  },
+  "author": "S. Mahdi Mir-Ismaili <s.m.mirismaili@gmail.com>",
+  "type": "module",
+  "scripts": {},
+  "engines": {
+    "node": ">=16"
+  }
+}
